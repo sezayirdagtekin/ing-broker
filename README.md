@@ -1,4 +1,4 @@
-# ING-broker Design and Implementatio
+# ING-broker Design and Implementation
  
 Database:   H2 Database (url jdbc:h2:mem:testdb, username:sa , paswword is empty)
 
